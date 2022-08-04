@@ -102,7 +102,7 @@
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Sideline"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Click to open Sideline"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Sideline"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Click to open Sideline."/>
